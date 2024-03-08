@@ -31,6 +31,6 @@ I am always looking to improve my projects and welcome feedback and contribution
 
 ## Contact
 
-If you have any questions or would like to get in touch, please feel free to contact me.
+If you have any questions or would like to get in touch, please feel free to contact me via email at: [jrzhenhan@gmail.com](mailto:jrzhenhan@gmail.com).
 
 Thank you for visiting my projects collection!
