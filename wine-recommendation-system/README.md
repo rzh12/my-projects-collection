@@ -5,7 +5,7 @@
 
 ### Development Background
 
-The diversity of wine choices often confuses consumers, especially those lacking professional knowledge, making it a challenge to select wines that fit personal taste and budget. WRS.v2 focuses on providing a simplified solution by intelligently recommending high-quality wines, making the selection process easy and enjoyable.
+The diversity of wine choices often confuses consumers, especially those lacking professional knowledge, making it a challenge to select wines that fit personal taste and budget. WRS focuses on providing a simplified solution by intelligently recommending high-quality wines, making the selection process easy and enjoyable.
 
 ### Introduction
 
