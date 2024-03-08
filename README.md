@@ -20,7 +20,7 @@ For more information about each project, please visit the respective project's f
 To explore the projects, you can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/my-projects-collection.git
+git clone https://github.com/rzh12/my-projects-collection.git
 ```
 
 Then, navigate into the project folder of interest and refer to the `README.md` file for specific instructions on setting up and using the project.
