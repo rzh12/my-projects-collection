@@ -14,7 +14,7 @@ In my research, there are two primary explanatory variables: `gap` (birth spacin
 ## 2SLS Model
 
 A
-$$
+```math
 \begin{align*}
 
 &Gap_i = \alpha_0 + \alpha_1 Multibirth_i + X_s \Gamma + W_i \Phi + Interaction_{is} \Psi + v_{is} \tag{第一階段}\\
@@ -22,9 +22,9 @@ $$
 &Educ_{is} = \beta_0 + \beta_1 \hat{Gap_i} + X_s \Lambda + W_i \Sigma + Interaction_{is} \Omega + u_{is} \tag{第二階段}
 
 \end{align*}
-$$
+```
 B
-$$
+```math
 \begin{align*}
 
     &Gap_i = \alpha_0 + \alpha_1 Multibirth_i + X_s \Gamma + W_i \Phi + Interaction_{is} \Psi + v_{is} \tag{第一階段}\\
@@ -32,7 +32,7 @@ $$
     &College_{is} = \beta_0 + \beta_1 \hat{Gap_i} + X_s \Lambda + W_i \Sigma + Interaction_{is} \Omega + u_{is} \tag{第二階段}
 
 \end{align*}
-$$
+```
 
 $Educ_{is}$ : the dependent variable, where subscript i denotes the ith pair of siblings, and s represents the older or younger sibling within a pair
 
