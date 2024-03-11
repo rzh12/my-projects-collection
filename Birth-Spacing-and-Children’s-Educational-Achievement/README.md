@@ -24,7 +24,7 @@ In my research, there are two primary explanatory variables: `gap` (birth spacin
 \end{align*}
 ```
 
-#### **Y: College
+#### **Y: College**
 ```math
 \begin{align*}
 
