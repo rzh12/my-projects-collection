@@ -1,6 +1,6 @@
 Attribute VB_Name = "Module20"
-Sub ¦X¨Ö¤u§@ªí_loop_for_local()
-    '½Æ»sªíÀY
+Sub åˆä½µå·¥ä½œè¡¨_loop_for_local()
+    'è¤‡è£½è¡¨é ­
     Sheets(1).Select
     Worksheets.Add
     Sheets(1).Name = "Combined"
@@ -8,7 +8,7 @@ Sub ¦X¨Ö¤u§@ªí_loop_for_local()
     Range("A1").EntireRow.Select
     Selection.Copy Destination:=Sheets(1).Range("A1")
     
-    '½Æ»s°£ªíÀY¥~¤§ªí®æ_loop
+    'è¤‡è£½é™¤è¡¨é ­å¤–ä¹‹è¡¨æ ¼_loop
     Dim J As Integer
     For J = 2 To Sheets.Count
         Sheets(J).Activate
