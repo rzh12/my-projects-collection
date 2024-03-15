@@ -4,9 +4,9 @@ Sub Cleanse()
     mFile = Dir("D:\qqq\*.XLS")
     Do While mFile <> ""
        Workbooks.Open Filename:="D:\qqq\" & mFile
-            'ªí®æ§R°£
+            'è¡¨æ ¼åˆªé™¤
             Cells(Rows.Count, 1).End(xlUp).CurrentRegion.Clear
-            '¦sÀÉ¨ÃÃö³¬
+            'å­˜æª”ä¸¦é—œé–‰
             ActiveWorkbook.Save
             ActiveWorkbook.Close
        mFile = Dir()
