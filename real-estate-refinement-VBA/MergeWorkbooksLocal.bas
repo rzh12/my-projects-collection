@@ -1,12 +1,12 @@
 Attribute VB_Name = "Module21"
-Sub ¶X®÷¨°≠∂√Ø_for_local()
+Sub Âêà‰ΩµÊ¥ªÈ†ÅÁ∞ø_for_local()
     Dim mFile As String
     mFile = Dir("D:\qqq\*.xlsx")
     Do While mFile <> ""
        Workbooks.Open Filename:="D:\qqq\" & mFile
        
        ActiveSheet.Copy _
-        Before:=ThisWorkbook.Sheets("§uß@™Ì1")
+        Before:=ThisWorkbook.Sheets("Â∑•‰ΩúË°®1")
         
        Workbooks(mFile).Close
 
