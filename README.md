@@ -8,12 +8,16 @@ Hi! This repository holds a series of programming projects that showcase my skil
 Below is a brief overview of each project included in this repository:
 
 - **Project 01: Wine Recommendation System**
+
   A user-friendly Python tool featuring a graphical interface, leveraging data scraping from a wine website to analyze and recommend wines suited to personal preferences and financial limits.
 - **Project 02: Birth Spacing and Children’s Educational Achievement**
+
   A Python adaptation of a Stata-based econometric study exploring the effects of birth spacing on education, using 2SLS models with twins as an instrumental variable to address endogeneity, highlighting Python's utility in organizing and validating complex regression analyses.
 - **Project 03: Technical Indicators Visualization**
+
   A Python project assessing technical indicators' predictive power on stock prices during a national health crisis, focusing on the Taiwan 50 index.
 - **Project 04: Real Estate Data Refinement with Excel VBA**
+
   Employing Excel VBA for comprehensive data cleansing of over a million real estate transactions from government datasets, facilitating an analysis of housing prices and luxury tax.
 
 For more information about each project, please visit the respective project's folder.
