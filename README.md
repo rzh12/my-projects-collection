@@ -12,7 +12,7 @@ Below is a brief overview of each project included in this repository:
 - **Project 02: Birth Spacing and Children’s Educational Achievement**
   A Python adaptation of a Stata-based econometric study exploring the effects of birth spacing on education, using 2SLS models with twins as an instrumental variable to address endogeneity, highlighting Python's utility in organizing and validating complex regression analyses.
 - **Project 03: Technical Indicators Visualization**
-   A Python project assessing technical indicators' predictive power on stock prices during a national health crisis, focusing on the Taiwan 50 index.
+  A Python project assessing technical indicators' predictive power on stock prices during a national health crisis, focusing on the Taiwan 50 index.
 - **Project 04: Real Estate Data Refinement with Excel VBA**
   Employing Excel VBA for comprehensive data cleansing of over a million real estate transactions from government datasets, facilitating an analysis of housing prices and luxury tax.
 
