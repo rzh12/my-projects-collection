@@ -1,3 +1,6 @@
+
+# Technical Indicator Visualization
+
 ## Introduction
 
 This project was conceived as my final project for a Python programming course focused on financial computations, part of my master's curriculum in 2021. It's primarily an exercise in using Python to visualize technical indicators for stock market data. Technical indicators, as key references for conducting technical analysis on stock prices, should serve as a comprehensive assessment for entering and exiting the stock market. However, the measurement of a single indicator often has its limitations and is particularly prone to losing its predictive power during major events. Therefore, this study aims to explore the predictive capability of technical indicators during the nationwide Level 3 epidemic alert period (May, 2021 - Jul, 2021), to see if any indicator could capture such intense fluctuations in advance.
