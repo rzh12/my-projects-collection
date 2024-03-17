@@ -6,7 +6,7 @@ This project was conceived during the preparation of my academic paper for submi
 
 ## Introduction
 
-My research focuses on the impact of birth spacing on educational achievement. To overcome the limitations of Ordinary Least Squares (OLS) due to endogeneity, this study adopts the Two-Stage Least Squares (2SLS) approach, utilizing twins as an instrumental variable(IV). This method effectively isolates unobservable factors, offering a robust strategy to uncover the genuine effects of birth intervals on educational attainment. 
+My research focuses on the impact of birth spacing on educational achievement. To overcome the limitations of Ordinary Least Squares (OLS) due to endogeneity, this study adopts the Two-Stage Least Squares (2SLS) approach, utilizing twins as an instrumental variable (IV). This method effectively isolates unobservable factors, offering a robust strategy to uncover the genuine effects of birth intervals on educational attainment. 
 
 For more details, please refer to my paper, which has been accepted for publication in *Journal of Social Sciences and Philosophy* and is currently pending release. The original version of the paper is provided here: [Birth Spacing and Children’s Educational Achievement](https://drive.google.com/file/d/1kTNJ33ZTdj0Zj6vdMKC4sJSGzak1uHRs/view?usp=sharing)
 In my research, there are two primary explanatory variables: `gap` (birth spacing) and `spacedclose` (whether gap is less than or equal to two years). Given the similarity in regression outcomes between these variables, and to enhance the readability and comprehension of the code, I've chosen to focus exclusively on the `gap` variable in this presentation.
