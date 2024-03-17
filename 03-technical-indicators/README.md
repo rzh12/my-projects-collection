@@ -1,5 +1,5 @@
 
-# Technical Indicator Visualization
+# Technical Indicators Visualization
 
 ## Introduction
 
