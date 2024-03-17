@@ -1,5 +1,5 @@
 
-# Wine Recommendation System (WRS)
+# Wine Recommendation System
 
 >***The provided code, including the web scraping scripts and the resultant CSV data files, is intended solely for personal practice and technical discussion purposes, not intended for any commercial use. This project is designed to showcase programming skills and understanding of data manipulation and GUI development techniques.***
 
